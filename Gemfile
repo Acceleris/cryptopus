@@ -6,6 +6,7 @@ gem 'figaro'
 gem 'mysql2'
 gem 'net-ldap'
 gem 'sqlite3'
+gem 'pg'
 
 gem 'active_model_serializers', '0.10.0'
 gem 'annotate'
